@@ -32,9 +32,19 @@ Based on the actual annualized NOI of $1,783,928, the following value indication
 ## Future Value Projection (5-Year Horizon)
 This scenario assumes the buyer occupies **Suite 260 (3,083 SF)** as owner-user space and leases the remaining **18,195 SF** of vacant space at market rates ($29.00 PSF Full Service).
 
-- **Projected Stabilized NOI (Year 5):** ~$2,300,000
-- **Exit Cap Rate:** 7.50% (Acquisition 7.25% + 25 bps)
-- **Projected Re-Sale Value:** ~$30,666,000
+### Year 5 Stabilized Pro Forma
+| Item | Details |
+| :--- | :--- |
+| Projected Gross Revenue | ~$3,050,000 (95% Occupancy) |
+| Operating Expenses | ~($750,000) |
+| **Projected Stabilized NOI (Year 5)** | **~$2,300,000** |
+
+### Year 5 Exit Valuation
+| Exit Cap Rate | Projected Re-Sale Value | Price Per SF |
+| :--- | :--- | :--- |
+| **7.50%** | **$30,666,667** | $298.89 |
+
+*Exit Cap Rate based on Acquisition 7.25% + 25 bps spread.*
 
 ## Notes & Disclosures
 - Noted 50% rent abatement for Regus through June 2027.
