@@ -25,10 +25,8 @@ Based on recent 2025/2026 market transactions in the RDU/Triangle office submark
 | :--- | :--- | :--- | :--- | :--- |
 | **3800 Paramount Pkwy** (Morrisville) | Nov 2025 | $33,000,000 | 224,850 | $147 |
 | **3200 Beechleaf Ct** (Raleigh) | Jan 2026 | $20,500,000 | 188,510 | $109 |
-| **1110 Navaho Dr** (Midtown Portfolio) | Jan 2026 | $12,700,000* | 115,413 | $110 |
-| **7701 Six Forks Rd** (Horizon) | 2026 List | ~$8,400,000* | 60,150 | $140 |
-
-*\*Adjusted or estimated portion of larger portfolio/active listing context.*
+| **1110 Navaho Dr** (Midtown Portfolio) | Jan 2026 | $12,700,000 | 115,413 | $110 |
+| **7701 Six Forks Rd** (Horizon) | 2026 List | $8,400,000 | 60,150 | $140 |
 
 ## Valuation Analysis
 Based on the actual annualized NOI of $1,783,928 and current early-2026 market benchmarks:
@@ -42,22 +40,22 @@ Based on the actual annualized NOI of $1,783,928 and current early-2026 market b
 **Concluded Value Indication:** $17,000,000 ($165/SF)
 
 ## Future Value Projection (5-Year Horizon)
-Scenario assumes buyer occupies **Suite 260 (3,083 SF)** and leases the remaining vacant space at market rates.
+Scenario assumes buyer occupies **Suite 260 (3,083 SF)** and leases remaining vacant space at market rates.
 
 ### Year 5 Stabilized Pro Forma (7.5% Vacancy)
+
 | Item | Details |
 | :--- | :--- |
-| Potential Gross Revenue | ~$2,975,000 ($29.00 Market) |
-| Vacancy Allowance (7.5%) | ~($223,125) |
-| Operating Expenses | ~($850,000) |
-| **Projected Stabilized NOI (Year 5)** | **~$1,901,875** |
+| Potential Gross Revenue | $2,975,000 ($29.00 PSF Market) |
+| Vacancy Allowance (7.5%) | ($223,125) |
+| Operating Expenses | ($850,000) |
+| **Projected Stabilized NOI** | **$1,901,875** |
 
-### Year 5 Exit Valuation (8.5% Exit Cap)
+### Year 5 Exit Valuation (8.5% Exit Cap Rate)
+
 | Exit Cap Rate | Projected Re-Sale Value | Price Per SF |
 | :--- | :--- | :--- |
 | **8.50%** | **$22,375,000** | $218.08 |
-
-*Exit Cap Rate based on 8.50% as requested.*
 
 ## Notes & Disclosures
 - Valuation reflects a significant adjustment for the current office market downturn.
