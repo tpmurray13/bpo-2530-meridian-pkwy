@@ -20,6 +20,7 @@
 
 ## Sales Comparables
 Based on recent 2025/2026 market transactions in the RDU/Triangle office submarket:
+
 | Address | Sale Date | Sale Price | SF | Price/SF |
 | :--- | :--- | :--- | :--- | :--- |
 | **3800 Paramount Pkwy** (Morrisville) | Nov 2025 | $33,000,000 | 224,850 | $147 |
