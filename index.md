@@ -20,7 +20,6 @@
 
 ## Sales Comparables
 Based on recent 2025/2026 market transactions in the RDU/Triangle office submarket:
-Update BPO with market-aligned comps and adjusted Year 5 vacancy/cap rate
 | Address | Sale Date | Sale Price | SF | Price/SF |
 | :--- | :--- | :--- | :--- | :--- |
 | **3800 Paramount Pkwy** (Morrisville) | Nov 2025 | $33,000,000 | 224,850 | $147 |
