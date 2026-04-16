@@ -38,13 +38,13 @@ This scenario assumes the buyer occupies **Suite 260 (3,083 SF)** as owner-user 
 | :--- | :--- |
 | Projected Gross Revenue | ~$3,050,000 (95% Occupancy) |
 | Operating Expenses | ~($750,000) |
-| **Projected Stabilized NOI (Year 5)** | **~$2,300,000** |
+| Projected Stabilized NOI | ~$2,300,000 |
 
 ### Year 5 Exit Valuation
 
 | Exit Cap Rate | Projected Re-Sale Value | Price Per SF |
 | :--- | :--- | :--- |
-| **7.50%** | **$30,666,667** | $298.89 |
+| 7.50% | $30,666,667 | $298.89 |
 
 *Exit Cap Rate based on Acquisition 7.25% + 25 bps spread.*
 
