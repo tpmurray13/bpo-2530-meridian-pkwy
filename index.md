@@ -18,36 +18,48 @@
 - **Net Operating Income (NOI):** $1,783,928
 - **Stabilized Occupancy:** 79.3%
 
+## Sales Comparables
+Based on recent 2025/2026 market transactions in the RDU/Triangle office submarket:
+Update BPO with market-aligned comps and adjusted Year 5 vacancy/cap rate
+| Address | Sale Date | Sale Price | SF | Price/SF |
+| :--- | :--- | :--- | :--- | :--- |
+| **3800 Paramount Pkwy** (Morrisville) | Nov 2025 | $33,000,000 | 224,850 | $147 |
+| **3200 Beechleaf Ct** (Raleigh) | Jan 2026 | $20,500,000 | 188,510 | $109 |
+| **1110 Navaho Dr** (Midtown Portfolio) | Jan 2026 | $12,700,000* | 115,413 | $110 |
+| **7701 Six Forks Rd** (Horizon) | 2026 List | ~$8,400,000* | 60,150 | $140 |
+
+*\*Adjusted or estimated portion of larger portfolio/active listing context.*
+
 ## Valuation Analysis
-Based on the actual annualized NOI of $1,783,928, the following value indications are provided across a cap rate spread of 7.00% to 7.50%:
+Based on the actual annualized NOI of $1,783,928 and current early-2026 market benchmarks:
 
 | Cap Rate | Indicated Value | Price Per SF |
 | :--- | :--- | :--- |
-| **7.00%** | **$25,484,685** | $248.38 |
-| **7.25%** | **$24,605,903** | $239.82 |
-| **7.50%** | **$23,785,706** | $231.83 |
+| **10.00%** | **$17,839,280** | $173.87 |
+| **10.50%** | **$16,989,790** | $165.59 |
+| **11.00%** | **$16,217,527** | $158.07 |
 
-**Concluded Value Indication:** $24,600,000 ($240/SF)
+**Concluded Value Indication:** $17,000,000 ($165/SF)
 
 ## Future Value Projection (5-Year Horizon)
-This scenario assumes the buyer occupies **Suite 260 (3,083 SF)** as owner-user space and leases the remaining **18,195 SF** of vacant space at market rates ($29.00 PSF Full Service).
+Scenario assumes buyer occupies **Suite 260 (3,083 SF)** and leases the remaining vacant space at market rates.
 
-### Year 5 Stabilized Pro Forma
-
+### Year 5 Stabilized Pro Forma (7.5% Vacancy)
 | Item | Details |
 | :--- | :--- |
-| Projected Gross Revenue | ~$3,050,000 (95% Occupancy) |
-| Operating Expenses | ~($750,000) |
-| Projected Stabilized NOI | ~$2,300,000 |
+| Potential Gross Revenue | ~$2,975,000 ($29.00 Market) |
+| Vacancy Allowance (7.5%) | ~($223,125) |
+| Operating Expenses | ~($850,000) |
+| **Projected Stabilized NOI (Year 5)** | **~$1,901,875** |
 
-### Year 5 Exit Valuation
-
+### Year 5 Exit Valuation (8.5% Exit Cap)
 | Exit Cap Rate | Projected Re-Sale Value | Price Per SF |
 | :--- | :--- | :--- |
-| 7.50% | $30,666,667 | $298.89 |
+| **8.50%** | **$22,375,000** | $218.08 |
 
-*Exit Cap Rate based on Acquisition 7.25% + 25 bps spread.*
+*Exit Cap Rate based on 8.50% as requested.*
 
 ## Notes & Disclosures
+- Valuation reflects a significant adjustment for the current office market downturn.
 - Noted 50% rent abatement for Regus through June 2027.
 - Positioned as a value-add opportunity at a significant discount to replacement cost.
