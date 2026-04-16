@@ -1,3 +1,6 @@
 title: "BPO Report: 2530 Meridian Pkwy"
 description: "Broker Price Opinion for 2530 Meridian Parkway, Durham, NC 27713"
 remote_theme: pages-themes/minimal@v0.2.0
+markdown: kramdown
+kramdown:
+  input: GFM
