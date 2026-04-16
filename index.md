@@ -33,6 +33,7 @@ Based on the actual annualized NOI of $1,783,928, the following value indication
 This scenario assumes the buyer occupies **Suite 260 (3,083 SF)** as owner-user space and leases the remaining **18,195 SF** of vacant space at market rates ($29.00 PSF Full Service).
 
 ### Year 5 Stabilized Pro Forma
+
 | Item | Details |
 | :--- | :--- |
 | Projected Gross Revenue | ~$3,050,000 (95% Occupancy) |
@@ -40,6 +41,7 @@ This scenario assumes the buyer occupies **Suite 260 (3,083 SF)** as owner-user 
 | **Projected Stabilized NOI (Year 5)** | **~$2,300,000** |
 
 ### Year 5 Exit Valuation
+
 | Exit Cap Rate | Projected Re-Sale Value | Price Per SF |
 | :--- | :--- | :--- |
 | **7.50%** | **$30,666,667** | $298.89 |
